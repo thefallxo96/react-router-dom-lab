@@ -1,0 +1,16 @@
+.mailbox-details-container {
+  padding: 1rem;
+}
+
+.mailbox-details-container ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.mailbox-details-container li {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
